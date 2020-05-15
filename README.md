@@ -42,7 +42,7 @@ Youtube:
     </tr>
   </thead>
    <tr>
-      <td><sub>Basketball Game</sub></td>
+      <td><sub><a href = "https://github.com/SejongUni-Lecture/General_Physics_and_Simulation" target="_blank">Basketball Game</a></sub></td>
       <td><sub>"일반물리시뮬레이션" 개인 프로젝트</sub></td>
       <td><sub> 2017.05-2017.06 </sub></td><td><sub>Development</sub></td><td><sub>Vpython</sub></td>
    </tr>
@@ -67,12 +67,12 @@ Youtube:
       <td><sub>2018.05-2018.08</sub></td><td><sub>3D Modeling & Design</sub></td><td><sub>Maya 2014, 넥슨 VR, GIGIDC 출품</sub></td>
    </tr>
    <tr>
-      <td><sub>Drawing board with js</sub></td>
+      <td><sub><a href = "https://github.com/SejongUni-Lecture/Programming_basics" target="_blank">Drawing board with js</a></sub></td>
       <td><sub>"기초프로그래밍" 개인 프로젝트</sub></td>
       <td><sub>2018.11</sub></td><td><sub>Development</sub></td><td><sub>Javascript(p5js)</sub></td>
    </tr>
    <tr>
-      <td><sub>Sorrow</sub></td>
+      <td><sub><a href = "https://github.com/SejongUni-Lecture/SW_Basic_Design" target="_blank">soRRow</a></sub></td>
       <td><sub>"SW설계기초" 그룸 프로젝트</sub></td>
       <td><sub>2018.10-2018.12</sub></td><td><sub>Level design & effect</sub></td><td><sub>C</sub></td>
    </tr> 
@@ -92,7 +92,7 @@ Youtube:
       <td><sub>2019.03-2019.08</sub></td><td><sub>3D Modeling & Script</sub></td><td><sub>중도 개발 무산</sub></td>
    </tr>
    <tr>
-      <td><sub>Travelogue</sub></td>
+      <td><sub><a href = "https://github.com/sjsu-project/Emotional-Approach" target="_blank">Travelogue</a></sub></td>
       <td><sub>산호세 주립대 실리콘 밸리 워크숍 프로젝트</sub></td>
       <td><sub>2019.07-2019.08</sub></td><td><sub>UI Design & development</sub></td><td><sub>Adobe XD, After Effect CC</sub></td>
    </tr>
@@ -102,17 +102,17 @@ Youtube:
       <td><sub>2019.09-2019.10</sub></td><td><sub>Technical Artist</sub></td><td><sub>중도 개발 무산</sub></td>
    </tr>
    <tr>
-      <td><sub> Adjust WAV file with FMOD </sub></td>
+      <td><sub><a href = "https://github.com/SejongUni-Lecture/Digital_Sound_module1" target="_blank">Adjust WAV file with FMOD</a></sub></td>
       <td><sub>"디지털사운드" 그룹 프로젝트 1</sub></td>
       <td><sub>2019.09-2019.10</sub></td><td><sub>Development</sub></td><td><sub>C++/FMOD</sub></td>
    </tr>
    <tr>
-      <td><sub> Speaker Recognition </sub></td>
+      <td><sub><a href = "https://github.com/SejongUni-Lecture/Digital_Sound_module2" target="_blank">Speaker Recognition</a></sub></td>
       <td><sub> "디지털사운드" 그룹 프로젝트 2</sub></td>
       <td><sub>2019.11-2019.12</sub></td><td><sub>Development</sub></td><td><sub>Python/Scikit, Scipy</sub></td>
    </tr>
    <tr>
-      <td><sub> Fine Arts Virtual Exhibition </sub></td>
+      <td><sub><a href = "https://github.com/SejongUni-Lecture/Fine-Art-Virtual-Exhibition" target="_blank">Fine Arts Virtual Exhibition</a></sub></td>
       <td><sub>부전공 캡스톤 디자인 그룹 프로젝트</sub></td>
       <td><sub>2019.09-2019.12</sub></td><td><sub>3D Modeling & development</sub></td><td><sub>Maya 2019, Unity 2019.02 </sub></td>
    </tr>
