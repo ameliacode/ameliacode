@@ -42,12 +42,12 @@ Youtube:
     </tr>
   </thead>
    <tr>
-      <td><sub> Basketball Game</sub></td>
+      <td><sub>Basketball Game</sub></td>
       <td><sub>"일반물리시뮬레이션" 개인 프로젝트</sub></td>
       <td><sub> 2017.05-2017.06 </sub></td><td><sub>Development</sub></td><td><sub>Vpython</sub></td>
    </tr>
    <tr>
-      <td><sub> Sejong Taco Tycoon<br>(세종 타코야끼)</sub></td>
+      <td><sub>Sejong Taco Tycoon<br>(세종 타코야끼)</sub></td>
       <td><sub>2D 타이쿤<br>동아리 하계 게임잼 프로젝트</sub></td>
       <td><sub> 2017.07-2017.08 </sub></td><td><sub>Game Design</sub></td><td><sub>Unity2D</sub></td>
    </tr>
