@@ -27,7 +27,7 @@ Youtube:
 
 ## Hobbies  
 * Translate/Sub interviews  
-* Qualified skater: beginner level
+* National qualified skater: beginner level
 * Create and sell piano sheet music
 
 ## Repositories
