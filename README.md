@@ -6,7 +6,11 @@ For summarized info visit linked-in site linked down below!
 ### Contact Info
 Email: melisdiary@gmail.com
 
-## Educations
+### Reference & resume link
+For more information visit:  
+GitHub: @ameliacode  
+Linkedin: @ameliacode007  
+Youtube: 
 
 ## Skills
 ## Languages
@@ -20,17 +24,8 @@ Email: melisdiary@gmail.com
 * Qualified skater: beginner level
 * Create and sell piano sheet music
 
-
-## Career
-## Test Score
-## Certificates
-## Courses
 ## Projects
-## Awards & Scholarships
+
 ## Extra-curricular activies
 
-## Reference & resume link
-For more information visit:  
-GitHub: @ameliacode  
-Linkedin: @ameliacode007  
 
