@@ -15,8 +15,9 @@ Youtube:
 ## Skills
 |  Field  | Summary  | 
 |---|---|
-| Computer Language  |  C/C++,  Python/Maya python,  Javascript  |
+| Computer Language  |  C/C++,  Python,  Javascript, MEL  |
 | Animation/Motion graphic Tools  | Maya, Cinema4D, Unity, After Effect cc, Photoshop cc | 
+| API | Tensorflow 2.0, OpenCV, OpenGL(GLFW, GLEW), FMOD, SFML, Maya API  |
  
 
 ## Languages
