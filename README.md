@@ -9,7 +9,7 @@ Email: melisdiary@gmail.com
 ### Reference & resume link
 For more information visit:  
 GitHub: @ameliacode  
-Linkedin: @ameliacode007  
+Linkedin:[@ameliacode007](https://www.linkedin.com/in/ameliacode007/)
 Youtube: 
 
 ## Skills
