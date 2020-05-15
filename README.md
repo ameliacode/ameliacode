@@ -47,7 +47,7 @@ Youtube:
       <td><sub> 2017.05-2017.06 </sub></td><td><sub>Development</sub></td><td><sub>Vpython</sub></td>
    </tr>
    <tr>
-      <td><sub> Sejong Taco Tycoon(세종 타코야끼)</sub></td>
+      <td><sub> Sejong Taco Tycoon<br>(세종 타코야끼)</sub></td>
       <td><sub>2D 타이쿤, 동아리 하계 게임잼 프로젝트</sub></td>
       <td><sub> 2017.07-2017.08 </sub></td><td><sub>Game Design</sub></td><td><sub>Unity2D</sub></td>
    </tr>
@@ -57,12 +57,12 @@ Youtube:
       <td><sub>2018.01</sub></td><td><sub>Character design</sub></td><td><sub>Unity2D, Photoshop CC</sub></td>
    </tr>
    <tr>
-      <td><sub>Brain works(두뇌 풀 가동)</sub></td>
+      <td><sub>Brain works<br>(두뇌 풀 가동)</sub></td>
       <td><sub>VR 퍼즐, 동아리 이벤트 프로젝트</sub></td>
       <td><sub>2018.03-2018.04</sub></td><td><sub>3D Modeling & Design</sub></td><td><sub>Maya 2014, 교내 이벤트 부스 출품</sub></td>
    </tr>
    <tr>
-      <td><sub>What I dreamt(내가 그린 드림 그림)</sub></td>
+      <td><sub>What I dreamt<br>(내가 그린 드림 그림)</sub></td>
       <td><sub>VR 어드벤처, 동아리 정기 프로젝트</sub></td>
       <td><sub>2018.05-2018.08</sub></td><td><sub>3D Modeling & Design</sub></td><td><sub>Maya 2014, 넥슨 VR, GIGIDC 출품</sub></td>
    </tr>
