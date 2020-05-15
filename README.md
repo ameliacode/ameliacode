@@ -18,7 +18,7 @@ Email: melisdiary@gmail.com
 ## Hobbies  
 * Translate/Sub interviews  
 * Qualified skater: beginner level
-* Make and sell piano sheet music
+* Create and sell piano sheet music
 
 
 ## Career
