@@ -15,7 +15,7 @@ Youtube:
 ## Skills
 |  Field  | Summary  | 
 |---|---|
-| Computer Language  |  C/C++  Python  Javascript  |
+| Computer Language  |  C/C++,  Python,  Javascript  |
 | Animation/Motion graphic Tools  | Maya, Cinema4D, Unity, After Effect cc   | 
  
 
