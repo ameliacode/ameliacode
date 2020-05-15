@@ -13,6 +13,12 @@ Linkedin: [@ameliacode007](https://www.linkedin.com/in/ameliacode007/)
 Youtube: 
 
 ## Skills
+|  Field  | Summary  | 
+|---|---|
+| Computer Language  |  C/C++  Python  Javascript  |
+| Animation/Motion graphic Tools  | Maya, Cinema4D, Unity, After Effect cc   | 
+ 
+
 ## Languages
 * Korean: Native   
 * English: Able to speak fluently, understand any given writing   
