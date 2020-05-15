@@ -48,12 +48,12 @@ Youtube:
    </tr>
    <tr>
       <td><sub> Sejong Taco Tycoon<br>(세종 타코야끼)</sub></td>
-      <td><sub>2D 타이쿤, 동아리 하계 게임잼 프로젝트</sub></td>
+      <td><sub>2D 타이쿤<br>동아리 하계 게임잼 프로젝트</sub></td>
       <td><sub> 2017.07-2017.08 </sub></td><td><sub>Game Design</sub></td><td><sub>Unity2D</sub></td>
    </tr>
    <tr>
       <td><sub>Yesterday Ghost</sub></td>
-      <td><sub>2D 어드벤처,동아리 동계 게임잼 프로젝트</sub></td>
+      <td><sub>2D 어드벤처<br>동아리 동계 게임잼 프로젝트</sub></td>
       <td><sub>2018.01</sub></td><td><sub>Character design</sub></td><td><sub>Unity2D, Photoshop CC</sub></td>
    </tr>
    <tr>
