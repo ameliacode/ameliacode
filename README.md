@@ -16,7 +16,7 @@ Youtube:
 |  Field  | Summary  | 
 |---|---|
 | Computer Language  |  C/C++,  Python,  Javascript  |
-| Animation/Motion graphic Tools  | Maya, Cinema4D, Unity, After Effect cc   | 
+| Animation/Motion graphic Tools  | Maya, Cinema4D, Unity, After Effect cc, Photoshop cc | 
  
 
 ## Languages
