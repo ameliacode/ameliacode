@@ -79,7 +79,7 @@ Youtube:
    <tr>
       <td><sub>3Months(3개월의 기록)</sub></td>
       <td><sub>"3D애니메이션SW" 개인 프로젝트</sub></td>
-      <td><sub>2018.09-2018.12</sub></td><td><sub>3D Modeling & Design</sub></td><td><sub>Cinema4D, 교내 공모전 인기상 수상</sub></td>
+      <td><sub>2018.09-2018.12</sub></td><td><sub>3D Modeling & Design</sub></td><td><sub>Cinema4D<br>교내 공모전 인기상 수상</sub></td>
    </tr>
    <tr>
       <td><sub>세종냥이 한끼줍쇼 2019</sub></td>
