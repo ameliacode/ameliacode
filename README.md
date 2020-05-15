@@ -14,6 +14,7 @@ Email: melisdiary@gmail.com
 * English: Able to speak fluently, understand any given writing   
 * Chinese: Slightly understand characters  
 <br>
+
 ## Hobbies  
 * Translate/Sub interviews  
 * Qualified skater: beginner level
