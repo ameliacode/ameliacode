@@ -23,7 +23,7 @@ Youtube:
 * Korean: Native   
 * English: Able to speak fluently, understand any given writing   
 * Chinese: Slightly understand characters  
-<br>
+
 
 ## Hobbies  
 * Translate/Sub interviews  
