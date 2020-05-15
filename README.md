@@ -82,12 +82,12 @@ Youtube:
       <td><sub>2018.09-2018.12</sub></td><td><sub>3D Modeling & Design</sub></td><td><sub>Cinema4D, 교내 공모전 인기상 수상</sub></td>
    </tr>
    <tr>
-      <td><sub>세종냥이 한끼줍쇼 2019 텀블벅</sub></td>
+      <td><sub>세종냥이 한끼줍쇼 2019</sub></td>
       <td><sub>교내 고양이 돌봄 수익 창출</sub></td>
-      <td><sub>2019.01-2020.03</sub></td><td><sub>Merch design</sub></td><td><sub>수익 200만원 창출 달성</sub></td>
+      <td><sub>2019.01-2020.03</sub></td><td><sub>Merch design</sub></td><td><sub>텀블벅 수익 200만원 창출 달성</sub></td>
    </tr>
    <tr>
-      <td><sub>Defend that(다구리)</sub></td>
+      <td><sub><a href = "https://github.com/songhyunji/Daguri_Bridge" target="_blank">Defend that(다구리)</a></sub></td>
       <td><sub>연합 동아리 정기 프로젝트</sub></td>
       <td><sub>2019.03-2019.08</sub></td><td><sub>3D Modeling & Script</sub></td><td><sub>중도 개발 무산</sub></td>
    </tr>
