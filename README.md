@@ -37,7 +37,7 @@ Youtube:
 <table>
   <thead>
     <tr>
-      <th><sub>프로젝트 이름(Project name)</sub></th><th><sub>장르 및 분류(Classification)</sub></th>
+      <th><sub>프로젝트 이름<br>(Project name)</sub></th><th><sub>장르 및 분류(Classification)</sub></th>
       <th><sub>프로젝트 기한</sub></th><th><sub>프로젝트 담당 역할</sub></th><th><sub>Tools etc.</sub></th>
     </tr>
   </thead>
