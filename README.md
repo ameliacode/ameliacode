@@ -32,7 +32,7 @@ Youtube:
 * Create and sell piano sheet music
 
 ## Repositories
-### Projects
+### University Projects
 
 <table>
   <thead>
@@ -124,8 +124,11 @@ Youtube:
   </tbody>
 </table>
 
+### Circle Projects
+### Personal Projects
 
-### Thesis/Paper
+
+## Thesis/Paper
 Writing down.. 
 <table>
   <thead>
