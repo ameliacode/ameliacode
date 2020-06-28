@@ -124,8 +124,7 @@ Youtube:
   </tbody>
 </table>
 
-### Circle Projects
-### Personal Projects
+### Other Projects
 
 
 ## Thesis/Paper
