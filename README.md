@@ -115,7 +115,7 @@ Youtube:
       <td><sub>2018.05-2018.08</sub></td><td><sub>3D Modeling & Design</sub></td><td><sub>Maya 2014, 넥슨 VR, GIGIDC 출품</sub></td>
    </tr>
    <tr>
-      <td><sub>세종냥이 한끼줍쇼 2019</sub></td>
+      <td><sub><a href = "https://www.tumblbug.com/sejongmeow" target="_blank">세종냥이 한끼줍쇼 2019</a></sub></td>
       <td><sub>교내 고양이 돌봄 수익 창출</sub></td>
       <td><sub>2019.01-2020.03</sub></td><td><sub>Merch design</sub></td><td><sub>텀블벅 수익 200만원 창출 달성</sub></td>
    </tr>
