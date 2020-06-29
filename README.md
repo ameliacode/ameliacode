@@ -141,14 +141,11 @@ Writing down..
 <table>
   <thead>
     <tr>
-      <th><sub>프로젝트 이름<br>(Project name)</sub></th><th><sub>장르 및 분류(Classification)</sub></th>
-      <th><sub>프로젝트 기한</sub></th><th><sub>프로젝트 담당 역할</sub></th><th><sub>Tools etc.</sub></th>
+      <th><sub>논문이름<br>(Paper name)</sub></th><th><sub>분류(Classification)</sub></th>
+      <th><sub>논문 제출 및 기재일</sub></th>
     </tr>
   </thead>
    <tr>
-      <td><sub><a href = "https://github.com/SejongUni-Lecture/General_Physics_and_Simulation" target="_blank">Basketball Game</a></sub></td>
-      <td><sub>"일반물리시뮬레이션" 개인 프로젝트</sub></td>
-      <td><sub> 2017.05-2017.06 </sub></td><td><sub>Development</sub></td><td><sub>Vpython</sub></td>
    </tr>
    
   </tbody>
