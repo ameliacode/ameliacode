@@ -6,7 +6,6 @@ Email: melisdiary@gmail.com
 For more information visit:  
 GitHub: @ameliacode  
 Linkedin: [@ameliacode007](https://www.linkedin.com/in/ameliacode007/)  
-Youtube: 
 
 ## Skills
 |  Field  | Summary | 
@@ -121,20 +120,5 @@ Youtube:
 </table>
 
 ## Thesis/Paper
-Writing down.. 
-<table>
-  <thead>
-    <tr>
-      <th><sub>논문이름<br>(Paper name)</sub></th><th><sub>분류(Classification)</sub></th>
-      <th><sub>논문 제출 및 기재일</sub></th>
-    </tr>
-  </thead>
-   <tr>
-   </tr>
-   
-  </tbody>
-</table>
-
-### Thesis Review
 
 
