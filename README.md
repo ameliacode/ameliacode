@@ -5,37 +5,29 @@
 - Interested in Computer Graphics, Physics simulation, rendering and AI
 
 ### Skills
-<style type="text/css">
-
-</style>
+<link rel="stylesheet" href="profile-css.css">
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ysfy"></th>
-    <th class="tg-ysfy"></th>
+    <th class="tg-ysfy">Field</th>
+    <th class="tg-ysfy">Summary</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-xcht"></td>
-    <td class="tg-xcht"></td>
+    <td class="tg-xcht">Computer Language</td>
+    <td class="tg-xcht">C/C++,  Python,  Javascript, MEL, Maya python</td>
   </tr>
   <tr>
-    <td class="tg-xcht"></td>
-    <td class="tg-xcht"></td>
+    <td class="tg-xcht">Animation/Motion graphic Tools</td>
+    <td class="tg-xcht">Maya, Cinema4D, Unity, After Effect CC, Photoshop CC</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">API </td>
+    <td class="tg-0lax">Tensorflow 2.0, OpenCV, OpenGL(GLFW, GLEW), FMOD, SFML, Maya API</td>
   </tr>
 </tbody>
 </table>
-
-|  Field  | Summary | 
-|---|---|
-| Computer Language |  C/C++,  Python,  Javascript, MEL, Maya python  |
-| Animation/Motion graphic Tools  | Maya, Cinema4D, Unity, After Effect cc, Photoshop cc | 
-| API | Tensorflow 2.0, OpenCV, OpenGL(GLFW, GLEW), FMOD, SFML, Maya API  |
 
 ### Contact Info
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/ameliacode007)
