@@ -1,21 +1,14 @@
 ## Profile
-### Contact Info
-Email: melisdiary@gmail.com
 
-### Reference & resume link
-For more information visit:  
-GitHub: @ameliacode  
-Linkedin: [@ameliacode007](https://www.linkedin.com/in/ameliacode007/)  
-
-## Skills
+### Skills
 |  Field  | Summary | 
 |---|---|
 | Computer Language |  C/C++,  Python,  Javascript, MEL, Maya python  |
 | Animation/Motion graphic Tools  | Maya, Cinema4D, Unity, After Effect cc, Photoshop cc | 
 | API | Tensorflow 2.0, OpenCV, OpenGL(GLFW, GLEW), FMOD, SFML, Maya API  |
  
-## Repositories
-### University Projects
+### Repositories
+#### University Projects
 
 <table>
   <thead>
@@ -68,7 +61,7 @@ Linkedin: [@ameliacode007](https://www.linkedin.com/in/ameliacode007/)
   </tbody>
 </table>
 
-### Other Projects
+#### Other Projects
 
 <table>
   <thead>
@@ -118,7 +111,3 @@ Linkedin: [@ameliacode007](https://www.linkedin.com/in/ameliacode007/)
       <td><sub>2019.09-2019.10</sub></td><td><sub>Technical Artist</sub></td><td><sub>중도 개발 무산</sub></td>
    </tr>
 </table>
-
-## Thesis/Paper
-
-
