@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td class="tg-0lax">API </td>
-    <td class="tg-0lax">Tensorflow 2.0, OpenCV, OpenGL(GLFW, GLEW), FMOD, SFML, Maya API</td>
+    <td class="tg-0lax">Tensorflow 2.0, Sklearn, OpenCV, OpenGL(GLFW, GLEW), FMOD, SFML, Maya API</td>
   </tr>
 </tbody>
 </table>
