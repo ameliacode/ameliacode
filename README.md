@@ -17,7 +17,7 @@
 <tbody>
   <tr>
     <td class="tg-xcht">Computer Language</td>
-    <td class="tg-xcht">C/C++,  Python,  Javascript, MEL, Maya python</td>
+    <td class="tg-xcht">C/C++,  Python,  Javascript, MEL, Maya python, HTML/CSS</td>
   </tr>
   <tr>
     <td class="tg-xcht">Animation/Motion graphic Tools</td>
