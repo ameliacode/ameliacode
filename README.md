@@ -1,5 +1,5 @@
 ## Profile
-- Senior majoring Software in South Korea (expected graduation: Feb 2021)
+- Senior majoring Software in South Korea (expected graduation: Aug 2021)
 - Seek for new possibility in any circumstances  
 - Great responsibility of managing team works    
 - Love to share thoughts with others 
