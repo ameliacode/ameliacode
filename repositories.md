@@ -42,7 +42,7 @@
    <tr>
       <td><sub><a href = "https://github.com/SejongUni-Lecture/Fine-Art-Virtual-Exhibition" target="_blank">Fine Arts Virtual Exhibition</a></sub></td>
       <td><sub>부전공 캡스톤 디자인 그룹 프로젝트</sub></td>
-      <td><sub>2019.09-2019.12</sub></td><td><sub>3D Modeling & development</sub></td><td><sub>Maya 2019, Unity 2019.02 </sub></td>
+      <td><sub>2019.09-2019.12</sub></td><td><sub>3D Modeling & development</sub></td><td><sub>Maya 2019, Unity 2019.02<br>교내 공모전 장려상 수상 </sub></td>
    </tr>
     <tr>
       <td><sub> Coloring Pot VR </sub></td>
@@ -52,7 +52,7 @@
    <tr>
       <td><sub> Interior Design Stylist </sub></td>
       <td><sub> 주전공 캡스톤 디자인 그룹 프로젝트</sub></td>
-      <td><sub>2020.09-2020.012</sub></td><td><sub>Furniture Recommendation pt.</sub></td><td><sub>Python, Implicit, GCP</sub></td>
+      <td><sub>2020.09-2020.012</sub></td><td><sub>Furniture Recommendation pt.</sub></td><td><sub>Python, Implicit, GCP<br>교내 공모전 우수상, 동상, 인기상 수상 </sub></td>
    </tr>
   </tbody>
 </table>
