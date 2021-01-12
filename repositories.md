@@ -49,6 +49,11 @@
       <td><sub>"가상현실" 그룹 프로젝트</sub></td>
       <td><sub>2020.05-2020.06</sub></td><td><sub>3D Modeling & development</sub></td><td><sub>Maya 2019, Unity 2019.02 </sub></td>
    </tr>
+   <tr>
+      <td><sub> Interior Design Stylist </sub></td>
+      <td><sub> 캡스톤 디자인 프로젝트</sub></td>
+      <td><sub>2020.09-2020.012</sub></td><td><sub>Furniture Recommendation pt.</sub></td><td><sub>Python, Implicit, GCP</sub></td>
+   </tr>
   </tbody>
 </table>
 
@@ -100,5 +105,10 @@
       <td><sub>Tiny Revolution</sub></td>
       <td><sub>연합 동아리 정기 프로젝트</sub></td>
       <td><sub>2019.09-2019.10</sub></td><td><sub>Technical Artist</sub></td><td><sub>중도 개발 무산</sub></td>
+   </tr>
+  <tr>
+      <td><sub>Curling Technician</sub></td>
+      <td><sub>소논문 프로젝트</sub></td>
+      <td><sub>2020.04-Current</sub></td><td><sub></sub></td><td><sub></sub></td>
    </tr>
 </table>
