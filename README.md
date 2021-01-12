@@ -20,8 +20,8 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-xcht">Computer Language</td>
-    <td class="tg-xcht">
+    <td valign=middle>Computer Language</td>
+    <td valign=middle>
       <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -31,14 +31,14 @@
       </p></td>
   </tr>
   <tr>
-    <td class="tg-xcht">Animation/Motion graphic Tools</td>
-    <td class="tg-xcht">
+    <td valign=middle>Animation/Motion graphic Tools</td>
+    <td valign=middle>
       Maya, Cinema4D, Unity, Photoshop CC, After Effect CC, Adobe XD CC
     </td>
   </tr>
   <tr>
-    <td class="tg-xcht">Dev Tools</td>
-    <td class="tg-xcht"> 
+    <td valign=middle>Dev Tools</td>
+    <td valign=middle>
      <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
      <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -46,8 +46,8 @@
   </td>
   </tr>
   <tr>
-    <td class="tg-0lax">API </td>
-    <td class="tg-0lax">
+    <td valign=middle>API </td>
+    <td valign=middle>
       Tensorflow 2.0, Scikit-learn, OpenCV, OpenGL(GLFW, GLEW), Maya API</td>
   </tr>
 </tbody>
