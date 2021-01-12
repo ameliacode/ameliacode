@@ -25,7 +25,7 @@
       <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
       
-      </p></td>
+    
   </tr>
   <tr>
     <td valign=middle>Animation/Motion graphic Tools</td>
