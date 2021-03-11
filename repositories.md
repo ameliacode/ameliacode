@@ -52,7 +52,7 @@
    <tr>
       <td><sub> Interior Design Stylist </sub></td>
       <td><sub> 주전공 캡스톤 디자인 그룹 프로젝트</sub></td>
-      <td><sub>2020.09-2020.012</sub></td><td><sub>Furniture Recommendation pt.</sub></td><td><sub>Python, Implicit, GCP<br>교내 공모전 우수상, 동상, 인기상 수상 </sub></td>
+      <td><sub>2020.09-2020.12</sub></td><td><sub>Furniture Recommendation pt.</sub></td><td><sub>Python, Implicit, GCP<br>교내 공모전 우수상, 동상, 인기상 수상 </sub></td>
    </tr>
   </tbody>
 </table>
