@@ -32,24 +32,41 @@
         
   </tr>
   <tr>
-    <td valign=middle>Animation/Motion graphic Tools</td>
-    <td valign=middle>
-      Maya, Cinema4D, Unity, Photoshop CC, After Effect CC, Adobe XD CC
-    </td>
-  </tr>
-  <tr>
     <td valign=middle>Dev Tools</td>
     <td valign=middle>
      <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
      <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  
+      <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+      <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   </td>
+  </tr>
+  
+  <tr>
+    <td valign=middle>FrontEnd</td>
+    <td valign=middle>
+      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+      <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+      </td>
+  </tr>
+  <tr>
+    <td valign=middle>AI/ML</td>
+    <td valign=middle>
+      <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+       <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> </a>
+      </td>
   </tr>
   <tr>
     <td valign=middle>API </td>
     <td valign=middle>
-      Tensorflow 2.0, Scikit-learn, OpenCV, OpenGL(GLFW, GLEW), Maya API</td>
+      OpenCV, OpenGL(GLFW, GLEW), Maya API</td>
+  </tr>
+  <tr>
+    <td valign=middle>Animation/Motion graphic Tools</td>
+    <td valign=middle>
+      Maya, Cinema4D, Unity, Photoshop CC, After Effect CC, Adobe XD CC
+    </td>
   </tr>
 </tbody>
 </table>
