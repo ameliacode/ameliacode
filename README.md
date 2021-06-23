@@ -1,5 +1,5 @@
 ## Profile
-- 1st year grad student majoring Computer Software in South Korea (expected graduation: Aug 2023)
+- 1st year grad student majoring CS in South Korea (expected graduation: Aug 2023)
 - Seek for new possibility in any circumstances  
 - Great responsibility of managing team works    
 - Love to share thoughts with others 
