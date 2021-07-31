@@ -1,5 +1,5 @@
 ## Profile
-- M.S. CS 1st year in South Korea (expected graduation: Aug 2023)
+- M.S. CE 1st year in South Korea (expected graduation: Aug 2023)
 - Seek for new possibility in any circumstances  
 - Great responsibility of managing team works    
 - Love to share thoughts with others 
