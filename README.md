@@ -6,6 +6,7 @@
 - Interested in Computer Graphics, Physics simulation, rendering and AI
 
 ### Contact Info
+NO contacts available for now 'til next year. 😥 sorry for that.
 
 <h3 align="left">Languages and Tools:</h3>
 <link rel="stylesheet" href="profile-css.css">
