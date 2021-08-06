@@ -1,8 +1,8 @@
 ## Profile
 - M.S. CE 1st year in South Korea (expected graduation: Aug 2023)
-- Seek for new possibility in any circumstances  
-- Great responsibility of managing team works    
+- Seek for new possibility in any circumstances     
 - Love to share thoughts with others 
+- Stan positive manner
 - Interested in Computer Graphics, Physics simulation, rendering and AI
 
 ### Contact Info
