@@ -1,5 +1,5 @@
 ## Profile
-- M.S. CE 1st year in South Korea (expected graduation: Aug 2023)
+- M.S. CE 1st Quarter in South Korea (expected graduation: Aug 2023)
 - Seek for new possibilities in any circumstances     
 - Interested in Computer Graphics, Physics simulation, rendering and AI
 - All that Glitters are not Gold
