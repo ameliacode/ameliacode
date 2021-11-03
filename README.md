@@ -2,7 +2,7 @@
 - M.S. CE 1st Quarter in South Korea (expected graduation: Aug 2023)
 - Seek for new possibilities in any circumstances     
 - Interested in Computer Graphics, Physics simulation, rendering and AI
-- All that Glitters are not Gold
+- Dreams are message from the deep
 
 ### Contact Info
 NO contacts available for now 'til next year. 😥 sorry for that.
