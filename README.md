@@ -88,7 +88,6 @@ NO contacts available for now 'til next year. 😥 sorry for that.
 </table>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ameliacode)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliacode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
