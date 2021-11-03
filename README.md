@@ -1,5 +1,5 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=pink)
- [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+ [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
 - M.S. CE 1st Quarter in South Korea (expected graduation: Aug 2023)
