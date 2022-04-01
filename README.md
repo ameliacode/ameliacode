@@ -1,4 +1,5 @@
- <p align="center"><img src="banner-1.png"/></p>
+<h1 align="center">Amelia Young</h1>
+<p align="center">🖱 Graduate student majoring Computer Science ⌨ </p>
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=pink)
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
