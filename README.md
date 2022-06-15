@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=40&fontAlign=50&fontAlignY=35&text=Locomote%20the%20World&color=gradient&customColorList=14)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&fontSize=30&fontAlign=50&fontAlignY=35&text=LOCOMOTE%20THE%20WORLD&color=gradient&customColorList=14)
 <h1 align="center">Amelia Young</h1>
 <p align="center">🖱 Graduate student majoring Computer Science ⌨ </p>
  
