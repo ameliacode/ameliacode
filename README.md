@@ -1,4 +1,6 @@
-<h1 align="center">Amelia Young</h1>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=40&fontAlign=50&fontAlignY=35&text=Amelia%20Young&color=gradient&customColorList=14)
+
 <p align="center">🖱 Graduate student majoring Computer Science ⌨ </p>
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=pink)
