@@ -1,9 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&fontSize=30&fontAlign=50&fontAlignY=35&text=LOCOMOTE%20THE%20WORLD&color=gradient&customColorList=14)
 <h1 align="center">Amelia Young</h1>
+
 <p align="center">🖱 Graduate student majoring Computer Science ⌨ </p>
- 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=pink)
+![](https://gh-hits.nomadcoders.workers.dev/view?username=$USERNAME)
+
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
