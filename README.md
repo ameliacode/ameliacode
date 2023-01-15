@@ -72,7 +72,7 @@ NO contacts available for now 'til next year. 😥 sorry for that.
       </td>
   </tr>
   <tr>
-    <td valign=middle>API </td>
+    <td valign=middle>Others</td>
     <td valign=middle>
       <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" height="20"/>
       <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="opengl" height="20"/>
