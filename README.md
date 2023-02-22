@@ -12,8 +12,16 @@
 - Character Animation & Motion Control
 - Motion Synthesis, Motion controller
 
-### Contact Info
-NO contacts available for now 'til next year. 😥 sorry for that.
+### What I do most
+Currently Master's student majoring Computer Science, Control Motion from generated model with Reinforcement Learning.  
+I plan to study pose estimation with single rgb videos, simulation, or build application from it in future.  
+Feel free to contact if you're interested. Any suggestions, job offers are always a yes :)
+
+### Contact Info 
+- 💬 [My Blog](https://ameliacode-github-io.vercel.app)
+- 👩‍🎓 [LinkedIn](https://linkedin.com/in/ameliacode007)
+
+For prompt answers: contact me via [Linkedin](https://linkedin.com/in/ameliacode007)
 
 <h3 align="left">Languages and Tools:</h3>
 <link rel="stylesheet" href="profile-css.css">
