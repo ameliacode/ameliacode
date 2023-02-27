@@ -25,7 +25,7 @@ Feel free to contact if you're interested. Any suggestions, job offers are alway
 - 💬 [My Blog](https://ameliacode-github-io.vercel.app)
 - 👩‍🎓 [LinkedIn](https://linkedin.com/in/ameliacode007)
 
-For prompt responses (within 1hour): contact me via [Linkedin](https://linkedin.com/in/ameliacode007)
+For prompt responses: contact me via [Linkedin](https://linkedin.com/in/ameliacode007)
 
 <h3 align="left">Languages and Tools:</h3>
 <link rel="stylesheet" href="profile-css.css">
