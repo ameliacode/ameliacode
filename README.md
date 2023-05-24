@@ -18,7 +18,7 @@ Feel free to contact if you're interested. Any suggestions, job offers are alway
 
 #### Other (Hobbies, etc..)
 * [🎹 I make sheet musics!](https://www.mymusicsheet.com/fskaters_piano)
-* ⛸ I skate most of my workout time.
+* ⛸ I skate most of my workout time. | Lv.Beginner(guranteed by KSU) 
 * 💻 Developing personal websites as full-stack
 
 ### Contact Info 
