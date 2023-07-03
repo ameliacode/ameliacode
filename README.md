@@ -17,7 +17,7 @@ I plan to study pose estimation with single rgb videos, simulation, or build app
 Feel free to contact if you're interested. Any suggestions, job offers are always a yes :)
 
 #### Other (Hobbies, etc..)
-* [🎹 I make sheet musics!](https://www.mymusicsheet.com/fskaters_piano)
+* [🎹 I make sheet musics!](https://www.mymusicsheet.com/fskaters_piano) and play piano
 * ⛸ I skate most of my workout time. | Lv.Beginner(guranteed by KSU) 
 * 💻 Developing personal websites as full-stack
 
