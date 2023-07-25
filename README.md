@@ -7,8 +7,7 @@
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
-- M.S. CE 4th Quarter(2nd year) in South Korea (expected graduation: Aug 2023)
-- Character Animation & Motion Control
+- Character Animation & Motion Control | Master Degrees 
 - Motion Synthesis, Motion controller
 
 ### What I do 
