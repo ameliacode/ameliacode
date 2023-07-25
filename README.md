@@ -21,7 +21,7 @@ Feel free to contact if you're interested. Any suggestions, job offers are alway
 * 💻 Developing personal websites as full-stack
 
 ### Contact Info 
-- 💬 [My Blog](https://ameliacode.vercel.app)
+- 💬 [My Blog](https://ameliacode.vercel.app): my main news, posts, team project contact info are all here!
 - 👩‍🎓 [LinkedIn](https://linkedin.com/in/ameliacode007)
 
 For prompt responses: contact me via [Linkedin](https://linkedin.com/in/ameliacode007)
