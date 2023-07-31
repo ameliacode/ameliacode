@@ -11,7 +11,9 @@
 - Motion Synthesis, Motion controller
 
 ### What I do 
-Currently Master's student majoring Computer Science, Control Motion from generated model with Reinforcement Learning.  
+I recently received my Master's degree of Computer Science.  
+My research mostly revolved around Motion control from generated model with Reinforcement Learning.  <br/>
+
 I plan to study pose estimation with single rgb videos, simulation, or build application from it in future.  
 Feel free to contact if you're interested. Any suggestions, job offers are always a yes :)
 
