@@ -1,13 +1,13 @@
 
 <h1 align="center">Amelia Young</h1>
 
-<p align="center">🖱 Graduate student majoring Computer Science ⌨ </p>
+<p align="center">🖱 Currently opened for job positions: Graphics/Robotics enginner ⌨ </p>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
-- Character Animation & Motion Control | Master Degrees 
+- Character Animation & Motion Control | Masters Degrees 
 - Motion Synthesis, Motion controller
 
 ### What I do 
