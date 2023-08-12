@@ -7,8 +7,8 @@
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
-- Character Animation & Motion Control | Masters Degrees 
-- Motion Synthesis, Motion controller
+- Character Animation & Motion Control | Masters degrees 
+- Motion Synthesis, Reinforcement Learning
 
 ### What I do 
 I recently received my Master's degree of Computer Science.  
