@@ -1,21 +1,23 @@
 
 <h1 align="center">Amelia Young</h1>
 
-<p align="center">🖱 Currently opened for job positions: Graphics/Robotics engineer ⌨ </p>
+<p align="center">🖱 Robotics Computer Vision engineer ⌨ </p>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
+- Robotics Computer Vision Engineer
 - Character Animation & Motion Control | Masters degrees 
 - Motion Synthesis, Reinforcement Learning
 
 ### What I do 
-I recently received my Master's degree of Computer Science.  
+I am currently work for Startup company, mainly focus on Robotics Computer Vision.  
+I've got my masters degree on Aug 2023 at Seoul, South Korea.
 My research mostly revolved around Motion control from generated model with Reinforcement Learning.  <br/>
 
 I plan to study pose estimation with single rgb videos, simulation, or build application from it in future.  
-Feel free to contact if you're interested. Any suggestions, job offers are always a yes :)
+Feel free to contact if you're interested. Any suggestions, toy projects are always a yes :)
 
 #### Other (Hobbies, etc..)
 * [🎹 I make sheet musics!](https://www.mymusicsheet.com/fskaters_piano) and play piano
