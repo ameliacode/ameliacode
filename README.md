@@ -12,7 +12,7 @@
 - Motion Synthesis, Reinforcement Learning
 
 ### What I do 
-I am currently working for Startup company, mainly focus on Robotics Computer Vision.  
+I am currently working for Startup company, mainly focused on Robotics Computer Vision.  
 I've got my masters degree on Aug 2023 at Seoul, South Korea.
 My research mostly revolved around Motion control from generated model with Reinforcement Learning.  <br/>
 
