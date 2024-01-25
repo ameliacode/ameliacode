@@ -7,9 +7,8 @@
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
-- Robotics Computer Vision Engineer
-- Character Animation & Motion Control | Masters degrees 
-- Motion Synthesis, Reinforcement Learning
+- Robotics Computer Vision Engineer - 3D Reconstruction
+- Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
 ### What I do 
 I am currently working for Startup company, mainly focused on Robotics Computer Vision.  
