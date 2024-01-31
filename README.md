@@ -13,7 +13,7 @@
 ### What I do 
 I am currently working for Startup company, mainly focused on Robotics Computer Vision.  
 I've got my masters degree on Aug 2023 at Seoul, South Korea.
-My research mostly revolved around Motion control from generated model with Reinforcement Learning.  <br/>
+My research mostly revolved around motion control from generated model with reinforcement learning.  <br/>
 
 I plan to study pose estimation with single rgb videos, simulation, or build application from it in future.  
 Feel free to contact if you're interested. Any suggestions, toy projects are always a yes :)
