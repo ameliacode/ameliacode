@@ -1,13 +1,13 @@
 
 <h1 align="center">Amelia Young</h1>
 
-<p align="center">🖱 Robotics Computer Vision Engineer ⌨ </p>
+<p align="center">🖱 Computer Vision Engineer ⌨ </p>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
-- Robotics Computer Vision Engineer - 3D Reconstruction
+- Computer Vision Engineer - 3D Reconstruction
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
 ### What I do 
