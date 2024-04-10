@@ -10,7 +10,7 @@
 - Computer Vision Engineer - 3D Reconstruction
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
-### JOB OFFERS are welcoming 
+#### JOB OFFERS are welcoming 
 Currently looking for positions: computer vision, pose estimation
 
 ### What I do 
