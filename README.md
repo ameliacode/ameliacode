@@ -11,8 +11,8 @@
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
 ### What I do 
-I am currently working for Startup company, mainly focused on Robotics Computer Vision.  
-My research mostly revolved around motion control from generated model with reinforcement learning.  <br/>
+I am currently working for Startup company, mainly focused on Camera Software development.  
+My research mostly revolved around motion control from generated model with reinforcement learning. However, I keep broadening my perspective beyond my safezone. <br/>
 
 I plan to study pose estimation with single rgb videos, simulation, or build application from it in future.  
 Feel free to contact if you're interested. Any suggestions, toy projects are always a yes :)
