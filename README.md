@@ -1,7 +1,7 @@
 
 <h1 align="center">Amelia Young</h1>
 
-<p align="center">🖱 Computer Vision Engineer ⌨ </p>
+<p align="center">🖱 3D Vision Algorithm Developer ⌨ </p>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
@@ -9,9 +9,6 @@
 ## Profile
 - Computer Vision Engineer - 3D Reconstruction
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
-
-#### JOB OFFERS are welcoming 
-Currently looking for positions: computer vision, pose estimation
 
 ### What I do 
 I am currently working for Startup company, mainly focused on Robotics Computer Vision.  
