@@ -1,7 +1,7 @@
 
 <h1 align="center">Amelia Young</h1>
 
-<p align="center">🖱 3D Vision Algorithm Developer ⌨ </p>
+<p align="center">🖱  Computer Vision Engineer ⌨ </p>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
@@ -11,7 +11,7 @@
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
 ### What I do 
-I am currently working for Startup company, mainly focused on Camera Software development.  
+I am currently working for Startup company, mainly focused on camera(copick3d) software development.  
 My research mostly revolved around motion control from generated model with reinforcement learning. However, I keep broadening my perspective beyond my safezone. <br/>
 
 I plan to study pose estimation with single rgb videos, simulation, or build application from it in future.  
