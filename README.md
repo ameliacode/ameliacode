@@ -1,17 +1,17 @@
 
 <h1 align="center">Amelia Young</h1>
 
-<p align="center">🖱  Computer Vision Engineer ⌨ </p>
+<p align="center">🖱  OPEN FOR POSITION! ⌨ </p>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
-- Computer Vision Engineer - 3D Reconstruction
+- Open for position!
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
 ### What I do 
-I am currently working for Startup company, mainly focused on camera(copick3d) software development.  
+Open for position!: Vision AI, Motion Generation, Frontend  
 My research mostly revolved around motion control from generated model with reinforcement learning. However, I keep broadening my perspective beyond my safezone. <br/>
 
 I plan to study pose estimation with single rgb videos, simulation, or build application from it in future.  
