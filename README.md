@@ -1,13 +1,13 @@
 
 <h1 align="center">Amelia Young</h1>
 
-<p align="center">🖱  OPEN FOR POSITION! ⌨ </p>
+<p align="center">🖱 Geometric Machine Learning Algorithm Developer ⌨ </p>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
  [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
-- Open for position!
+- Currently working for Parallel space co. | Machine Learning, 3D reconstruction
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
 ### What I do 
