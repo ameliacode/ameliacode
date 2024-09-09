@@ -11,7 +11,6 @@
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
 ### What I do 
-Open for position!: Vision AI, Motion Generation, Frontend  
 My research mostly revolved around motion control from generated model with reinforcement learning. However, I keep broadening my perspective beyond my safezone. <br/>
 
 I plan to study pose estimation with single rgb videos, simulation, or build application from it in future.  
