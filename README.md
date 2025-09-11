@@ -25,7 +25,7 @@ Feel free to contact if you're interested. Any suggestions, toy projects are alw
 - 💬 [My Blog](https://ameliacode.vercel.app): my main news, posts, team project contact info are all here!
 - 👩‍🎓 [LinkedIn](https://linkedin.com/in/ameliacode007)
 
-For prompt responses: contact me via [Linkedin](https://linkedin.com/in/ameliacode007)
+For quick responses: contact me via [Linkedin](https://linkedin.com/in/ameliacode007)
 
 <h3 align="left">Languages and Tools:</h3>
 <link rel="stylesheet" href="profile-css.css">
