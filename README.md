@@ -1,27 +1,30 @@
-
 <h1 align="center">Amelia Young</h1>
 
 <p align="center">🖱 Software Engineer ⌨ </p>
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
- [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
 
 ## Profile
+
 - **Looking for opportunities in Seoul, South Korea!**
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
-### What I do 
+### What I do
+
 My research mostly revolved around motion control from generated model with reinforcement learning. However, I keep broadening my perspective beyond my safezone. <br/>
 
 I plan to study pose estimation with single rgb videos, simulation, or build application from it in future.  
 Feel free to contact if you're interested. Any suggestions, toy projects are always a yes :)
 
 #### Other (Hobbies, etc..)
-* [🎹 I make sheet musics!](https://www.mymusicsheet.com/fskaters_piano) & play piano in public as a solo performer.
-* ⛸ I skate most of my workout time. | Lv.Beginner(guranteed by Seoul Skating Union) 
-* 💻 Developing personal websites as full-stack
 
-### Contact Info 
+- [🎹 I make sheet musics!](https://www.mymusicsheet.com/fskaters_piano) & play piano in public as a solo performer.
+- ⛸ I skate most of my workout time. | Lv.Beginner (guranteed by Seoul Skating Union)
+- 💻 Developing personal websites as full-stack
+
+### Contact Info
+
 - 💬 [My Blog](https://ameliacode.vercel.app): my main news, posts, team project contact info are all here!
 - 👩‍🎓 [LinkedIn](https://linkedin.com/in/ameliacode007)
 
@@ -30,15 +33,9 @@ For quick responses: contact me via [Linkedin](https://linkedin.com/in/ameliacod
 <h3 align="left">Languages and Tools:</h3>
 <link rel="stylesheet" href="profile-css.css">
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ysfy">Field</th>
-    <th class="tg-ysfy">Summary</th>
-  </tr>
-</thead>
 <tbody>
   <tr>
-    <td valign=middle>Computer Language</td>
+    <td valign=middle>language</td>
     <td valign=middle>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="20"/>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" height="20"/>
@@ -51,16 +48,14 @@ For quick responses: contact me via [Linkedin](https://linkedin.com/in/ameliacod
     </td>       
   </tr>
   <tr>
-    <td valign=middle>IDE/Editors</td> 
+    <td valign=middle>ai</td>
     <td valign=middle>
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" alt="vcode" height="20"/>
-      <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm" height="20"/>
-      <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="notebook" height="20"/>
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="vstudio" height="20"/>
-    </td>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="20"/>
+       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="20"/>
+      </td>
   </tr>
   <tr>
-    <td valign=middle>BackEnd</td>
+    <td valign=middle>backend</td>
     <td valign=middle>
      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="20"/>
      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud" height="20"/> 
@@ -72,7 +67,7 @@ For quick responses: contact me via [Linkedin](https://linkedin.com/in/ameliacod
   </tr>
   
   <tr>
-    <td valign=middle>FrontEnd</td>
+    <td valign=middle>frontend</td>
     <td valign=middle>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="20"/>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="20"/>
@@ -84,13 +79,7 @@ For quick responses: contact me via [Linkedin](https://linkedin.com/in/ameliacod
       <img src="https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron&logoColor=white" height="20"/>
     </td>
   </tr>
-  <tr>
-    <td valign=middle>AI/ML</td>
-    <td valign=middle>
-       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="20"/>
-       <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="20"/>
-      </td>
-  </tr>
+ 
   <tr>
     <td valign=middle>Others</td>
     <td valign=middle>
@@ -99,20 +88,9 @@ For quick responses: contact me via [Linkedin](https://linkedin.com/in/ameliacod
       <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" height="20"/>
     </td>
   </tr>
-  <tr>
-    <td valign=middle>Graphic Tools</td>
-    <td valign=middle>
-      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" height="20"/>
-      <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="photoshop" height="20"/>
-      <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="after effect" height="20"/>
-      <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="xd" height="20"/>   
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="20"/>
-    </td>
-  </tr>
 </tbody>
 </table>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ameliacode&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameliacode&layout=compact&theme=swift&hide_border=true" /></a> |
-| ------------- | ------------- |
+---
 
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ameliacode&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Anurag's github stats" /></a>
