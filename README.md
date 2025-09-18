@@ -7,7 +7,7 @@
 
 ## Profile
 
-- **Looking for opportunities in Seoul, South Korea!**
+- Deep Learning Researcher
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
 
 ### What I do
