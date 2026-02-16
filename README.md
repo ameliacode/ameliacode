@@ -4,7 +4,7 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
 [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
-<a href=https://github.com/debris-bin><img src="https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black" alt="github" height="20"/></a>
+
 
 ## Profile
 
@@ -26,4 +26,5 @@ Feel free to contact if you're interested. Any suggestions, toy projects are alw
 ### Contact Info
 
 - 💬 [My Blog](https://ameliacode.vercel.app): my main news, posts, team project contact info are all here!
-- 👩‍🎓 [LinkedIn](https://linkedin.com/in/ameliacode007): for quick responses, contact me here
+- 👩‍🎓 [LinkedIn](https://linkedin.com/in/ameliacode007): for quick responses, contact me
+- ☄️<a href=https://github.com/debris-bin><img src="https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black" alt="github" height="20"/></a>: checkout my old codes
