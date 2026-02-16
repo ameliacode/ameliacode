@@ -91,5 +91,3 @@ For quick responses: contact me via [Linkedin](https://linkedin.com/in/ameliacod
 </table>
 
 📍 my old debris are in [here](https://github.com/debris-bin)
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ameliacode&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Anurag's github stats" /></a>
