@@ -7,7 +7,7 @@
 
 ## Profile
 
-- Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
+- Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning  
 📍 my old debris are in [here](https://github.com/debris-bin)
 
 ### What I do
