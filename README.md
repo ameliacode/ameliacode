@@ -25,6 +25,6 @@ Feel free to contact if you're interested. Any suggestions, toy projects are alw
 
 ### Contact Info
 
-- 💬 [my blog](https://ameliacode.vercel.app): my main news, posts, team project contact info are all here!
+- 💬 [blog](https://ameliacode.vercel.app): my main news, posts, team project contact info are all here!
 - 👩‍🎓 [linkedIn](https://linkedin.com/in/ameliacode007): for quick responses, contact me
-- ☄️ [debris]: checkout my old codes
+- ☄️ [debris](https://github.com/debris-bin): checkout my old codes
