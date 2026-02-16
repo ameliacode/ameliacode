@@ -8,6 +8,7 @@
 ## Profile
 
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning
+📍 my old debris are in [here](https://github.com/debris-bin)
 
 ### What I do
 
@@ -25,10 +26,7 @@ Feel free to contact if you're interested. Any suggestions, toy projects are alw
 ### Contact Info
 
 - 💬 [My Blog](https://ameliacode.vercel.app): my main news, posts, team project contact info are all here!
-- 👩‍🎓 [LinkedIn](https://linkedin.com/in/ameliacode007)
-
-📍 for quick responses: contact me via [Linkedin](https://linkedin.com/in/ameliacode007)  
-📍 my old debris are in [here](https://github.com/debris-bin)
+- 👩‍🎓 [LinkedIn](https://linkedin.com/in/ameliacode007): for quick responses, contact me here
 
 <h3 align="left">Languages and Tools:</h3>
 <link rel="stylesheet" href="profile-css.css">
