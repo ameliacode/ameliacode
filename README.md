@@ -4,11 +4,11 @@
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=ameliacode)
 [![GitHub followers](https://img.shields.io/github/followers/ameliacode.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ameliacode?tab=followers)
+<a href=https://github.com/debris-bin><img src="https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black" alt="github" height="20"/></a>
 
 ## Profile
 
 - Character Animation & Motion Control | Masters degrees - Motion Synthesis, Reinforcement Learning  
-📍 my old debris are in [here](https://github.com/debris-bin)
 
 ### What I do
 
